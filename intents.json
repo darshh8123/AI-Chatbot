@@ -1,0 +1,220 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hello",
+          "Hi",
+          "Hey",
+          "Good morning",
+          "Good afternoon",
+          "Good evening",
+          "Greetings"
+        ],
+        "responses": [
+          "Hello! How can I assist you?",
+          "Hi! How can I help you?",
+          "Hey there! What can I do for you?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Goodbye",
+          "Bye",
+          "See you later",
+          "Have a great day",
+          "Take care"
+        ],
+        "responses": [
+          "Goodbye! Have a great day ahead!",
+          "Take care! See you soon!",
+          "See you later! Stay safe!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thank you",
+          "Thanks",
+          "Thanks a lot",
+          "I appreciate it"
+        ],
+        "responses": [
+          "You're welcome!",
+          "Glad I could help!",
+          "Anytime!"
+        ]
+      },
+      {
+        "tag": "help",
+        "patterns": [
+          "Can you help me?",
+          "I need assistance",
+          "I need help",
+          "Please help",
+          "Can you guide me?"
+        ],
+        "responses": [
+          "Sure, how can I assist you today?",
+          "I'm here to help! What do you need?",
+          "Of course, what do you need help with?"
+        ]
+      },
+      {
+        "tag": "joke",
+        "patterns": [
+          "Tell me a joke",
+          "Can you tell a joke?",
+          "I want to hear a joke",
+          "Make me laugh"
+        ],
+        "responses": [
+          "Why don't skeletons fight each other? They don't have the guts!",
+          "I told my computer I needed a break, and now it won't stop sending me Kit-Kats.",
+          "Why don't some couples go to the gym? Because some relationships don't work out."
+        ]
+      },
+      {
+        "tag": "weather",
+        "patterns": [
+          "What's the weather like?",
+          "Tell me the weather",
+          "How's the weather?",
+          "What's the temperature?"
+        ],
+        "responses": [
+          "I'm sorry, I can't check the weather right now, but you can check on any weather app!",
+          "I recommend checking a reliable weather website like AccuWeather or Google Weather."
+        ]
+      },
+      {
+        "tag": "time",
+        "patterns": [
+          "What time is it?",
+          "Tell me the time",
+          "What's the current time?"
+        ],
+        "responses": [
+          "Sorry, I don't have the ability to check the time right now, but try checking your device clock!"
+        ]
+      },
+      {
+        "tag": "thanks_for_the_help",
+        "patterns": [
+          "That’s all. Thanks for the help!",
+          "You were very helpful, thank you!",
+          "Thanks, I appreciate the help!"
+        ],
+        "responses": [
+          "You're welcome! I'm glad I could help.",
+          "Anytime! Let me know if you need anything else.",
+          "You're always welcome! Have a great day!"
+        ]
+      },
+      {
+        "tag": "chatbot_info",
+        "patterns": [
+          "What is your name?",
+          "Who are you?",
+          "What can you do?",
+          "Tell me about yourself",
+          "Introduce yourself"
+        ],
+        "responses": [
+          "I am your friendly chatbot, here to assist you with your queries!",
+          "I am a chatbot created to help you with various tasks and answer your questions.",
+          "I am an AI-based assistant here to provide you with answers to your queries."
+        ]
+      },
+      {
+        "tag": "feedback",
+        "patterns": [
+          "I like your help!",
+          "You are awesome!",
+          "This is amazing!",
+          "Great job!",
+          "Thank you for your help!"
+        ],
+        "responses": [
+          "Thank you! I’m glad I could help!",
+          "I appreciate your kind words! Let me know if you need anything else.",
+          "I'm happy to assist you! Feel free to reach out anytime!"
+        ]
+      },
+      {
+        "tag": "good_day",
+        "patterns": [
+          "Have a good day!",
+          "Enjoy your day!",
+          "Have a wonderful day!",
+          "Wishing you a great day!"
+        ],
+        "responses": [
+          "You too! Have an amazing day ahead!",
+          "Thanks! Enjoy your day as well!",
+          "Wishing you a fantastic day!"
+        ]
+      },
+      {
+        "tag": "complaint",
+        "patterns": [
+          "I am not happy with your response",
+          "This is not what I expected",
+          "You are not helpful",
+          "I'm frustrated"
+        ],
+        "responses": [
+          "I am sorry to hear that! How can I improve?",
+          "I apologize for the inconvenience. Let me know how I can assist better.",
+          "I’m sorry if I didn’t meet your expectations. Please feel free to share your concerns!"
+        ]
+      },
+      {
+        "tag": "quote",
+        "patterns": [
+          "Tell me a quote",
+          "Give me a motivational quote",
+          "I need a quote for the day",
+          "Share an inspirational quote"
+        ],
+        "responses": [
+          "“The only way to do great work is to love what you do.” — Steve Jobs",
+          "“Success is not the key to happiness. Happiness is the key to success.” — Albert Schweitzer",
+          "“The future belongs to those who believe in the beauty of their dreams.” — Eleanor Roosevelt"
+        ]
+      },
+    
+      {
+        "tag": "location",
+        "patterns": [
+          "Where are you from?",
+          "Where are you located?",
+          "Where do you live?",
+          "Tell me your location"
+        ],
+        "responses": [
+          "I exist in the digital world, so I’m everywhere!",
+          "I don't have a physical location, but I am always here to help you online.",
+          "I live in the cloud, just a message away from you!"
+        ]
+      },
+      {
+        "tag": "language",
+        "patterns": [
+          "Which languages do you speak?",
+          "Do you speak other languages?",
+          "Can you speak Spanish?",
+          "Can you speak French?"
+        ],
+        "responses": [
+          "I can communicate in English, but I can also understand a variety of languages.",
+          "I speak English, but I can process many languages with my AI!",
+          "I primarily speak English, but I can also try understanding other languages."
+        ]
+      }
+    ]
+  }
+  
+  
+  
